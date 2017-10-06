@@ -1,0 +1,32 @@
+{
+   "background": {
+      "scripts": [ "js/JsonValues.js", "js/background.js", "js/analytics.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/icon19.png",
+         "38": "img/icon38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "User-Agent Switcher for Google Chrome"
+   },
+   "content_scripts": [ {
+      "js": [ "js/content.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval';object-src 'self';",
+   "description": "User-Agent Switcher for Google Chrome switches between different user-agents.",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+biyVHaM3mHymwjPPf4XFC4wHMygz7sUplzJOxeDxh3E+EB31JzT+HGBw7lzBcGKAZW0Sj7azDgxzkNG+IJYFMAeQusEC2Bw7hvT4od789X59ZYaRB9Dls2HL5i2mcR6pREP9CP+KcnV1JYrOaXp4WpDrOvhVrsf6Qli+d/OzhwIDAQAB",
+   "manifest_version": 2,
+   "name": "User-Agent Switcher for Google Chrome",
+   "options_page": "options.html",
+   "permissions": [ "webRequest", "webNavigation", "webRequestBlocking", "tabs", "contextMenus", "http://*/*", "https://*/*", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.26"
+}

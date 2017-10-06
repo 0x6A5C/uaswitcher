@@ -1,0 +1,152 @@
+
+; <<>> DiG 9.11.2 <<>> nfemo.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: FORMERR, id: 33174
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 1716cbb7d49ef761 (echoed)
+;; QUESTION SECTION:
+;nfemo.com.			IN	A
+
+;; Query time: 2 msec
+;; SERVER: 10.0.34.17#53(10.0.34.17)
+;; WHEN: Mon Sep 18 16:54:32 MDT 2017
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.11.2 <<>> api.data-monitor.info
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: FORMERR, id: 19382
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 8174fe3c7dba7b15 (echoed)
+;; QUESTION SECTION:
+;api.data-monitor.info.		IN	A
+
+;; Query time: 1 msec
+;; SERVER: 10.0.34.17#53(10.0.34.17)
+;; WHEN: Mon Sep 18 16:54:32 MDT 2017
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.11.2 <<>> systemrtb.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: FORMERR, id: 3098
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 924fd5dcfa51f0a9 (echoed)
+;; QUESTION SECTION:
+;systemrtb.com.			IN	A
+
+;; Query time: 2 msec
+;; SERVER: 10.0.34.17#53(10.0.34.17)
+;; WHEN: Mon Sep 18 16:54:32 MDT 2017
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.11.2 <<>> the-extension.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: FORMERR, id: 29949
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 201d56ab26bb26fd (echoed)
+;; QUESTION SECTION:
+;the-extension.com.		IN	A
+
+;; Query time: 1 msec
+;; SERVER: 10.0.34.17#53(10.0.34.17)
+;; WHEN: Mon Sep 18 16:54:32 MDT 2017
+;; MSG SIZE  rcvd: 58
+
+
+; <<>> DiG 9.11.2 <<>> uaswitcher.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: FORMERR, id: 38920
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6e9ea7db36f3cb7a (echoed)
+;; QUESTION SECTION:
+;uaswitcher.org.			IN	A
+
+;; Query time: 1 msec
+;; SERVER: 10.0.34.17#53(10.0.34.17)
+;; WHEN: Mon Sep 18 16:54:32 MDT 2017
+;; MSG SIZE  rcvd: 55
+
+
+; <<>> DiG 9.11.2 <<>> unanalytics.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: FORMERR, id: 31598
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: a019ac4e48ca6032 (echoed)
+;; QUESTION SECTION:
+;unanalytics.com.		IN	A
+
+;; Query time: 1 msec
+;; SERVER: 10.0.34.17#53(10.0.34.17)
+;; WHEN: Mon Sep 18 16:54:32 MDT 2017
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.11.2 <<>> readersfeed.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: FORMERR, id: 14932
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: ed73f1cf7a5393b7 (echoed)
+;; QUESTION SECTION:
+;readersfeed.com.		IN	A
+
+;; Query time: 2 msec
+;; SERVER: 10.0.34.17#53(10.0.34.17)
+;; WHEN: Mon Sep 18 16:54:32 MDT 2017
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.11.2 <<>> useragentswitcher.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: FORMERR, id: 32423
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: a88321dfb84a01cd (echoed)
+;; QUESTION SECTION:
+;useragentswitcher.org.		IN	A
+
+;; Query time: 2 msec
+;; SERVER: 10.0.34.17#53(10.0.34.17)
+;; WHEN: Mon Sep 18 16:54:32 MDT 2017
+;; MSG SIZE  rcvd: 62
+
